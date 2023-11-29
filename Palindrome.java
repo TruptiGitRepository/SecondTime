@@ -1,9 +1,9 @@
-//Adding this comment to this file to test git
+//Adding this comment SECONDTIME to test git
 public class Palindrome {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 int Pali= 253352;
+		 int Pali= 12533521;
 		 String s="2level";
 		 Solution1 so1=new Solution1();
        boolean b = so1.isPalindrome(Pali);
