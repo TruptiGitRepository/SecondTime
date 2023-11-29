@@ -1,9 +1,9 @@
-
+//Adding this comment to this file to test git
 public class Palindrome {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 int Pali= 5335;
+		 int Pali= 253352;
 		 String s="2level";
 		 Solution1 so1=new Solution1();
        boolean b = so1.isPalindrome(Pali);
